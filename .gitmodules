@@ -1,0 +1,4 @@
+[submodule "learning-git"]
+	path = learning-git
+	url = git@github.com:ritik-kumar427/learning-git.git
+	branch = master
